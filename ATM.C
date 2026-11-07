@@ -64,7 +64,7 @@ int main()
 	    else if(amount <=balance)
 	    {
 	      balance=balance-amount;
-	      printf("Please Collect Your Crash.\n");
+	      printf("Please Collect Your Cash.\n");
 	      printf("Remaining Balance:Rs.%.2f\n",balance);
 	    }
 	    else
